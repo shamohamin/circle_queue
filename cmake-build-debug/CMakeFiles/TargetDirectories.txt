@@ -1,0 +1,3 @@
+/Users/mohamd/CLionProjects/circle_queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mohamd/CLionProjects/circle_queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohamd/CLionProjects/circle_queue/cmake-build-debug/CMakeFiles/circle_queue.dir
