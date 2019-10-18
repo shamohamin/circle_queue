@@ -27,7 +27,7 @@ bool CircleQueue<T>::is_full() {
 
 template <class T>
 void CircleQueue<T>::enQueue(T value) {
-    if(is_full){
+    if(is_full()){
         throw "Queue is full";
         return ;
     }
@@ -35,7 +35,7 @@ void CircleQueue<T>::enQueue(T value) {
 }
 template <class T>
 T CircleQueue<T>::deQueue(){
-    if(is_empty){
+    if(is_empty()){
         throw "Queue is empty";
         return ;
     }
